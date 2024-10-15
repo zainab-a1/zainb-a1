@@ -1,0 +1,40 @@
+
+Answer 1-
+     request positive number from the user
+     if the number does not equal to zero
+      request input 
+    if the input number equals to zero
+     print largest number
+ 
+Answer 2-
+   Request user's name
+    store name in a variable called first_name
+    print first_name plus "Hello, world."
+
+Answer 3-
+     Get arbitrary number of integers from the user
+     add up the numbers then divide it by the count of numbers
+     and then assign it to a variable called num
+    print num
+
+Answer 4- 
+  Get a list of grocery items
+   and assign it to a variable called food 
+  print food in alphabetical order
+
+Answer 5-
+     
+Start 
+
+Get first number from the user
+And assign in to x
+Get second number from user and
+Assign it to y
+
+ Add up X and Y and assign it to variable called S
+S divide it by 2 and assign to a variable called  A
+Multiply X and Y and assign it to variable called  P
+
+Print S, A, P
+
+End
